@@ -1,2 +1,2 @@
-# Final
+# Final.github.io
 ScreenTime
